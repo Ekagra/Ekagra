@@ -15,8 +15,6 @@
 ### “The recipe for great work is: very exacting taste, plus the ability to gratify it.” - Paul Graham
 
 - 🔭 I’m currently working on few of my projects and trying to contribute to the ones I like
-- 🌱 I like to explore stuff and learn whatever hinders my flow.
-- ⚡ Fun fact: I am working on a social network of my own
+- 🌱 I like to learn by doing.
 
-
-My drive is innovation and that's really what I want to do all my life. Since my childhood I am rambling to find tools to help me build things and programming is one such great tool. I like learning by doing, that's a really impatient way go with it but you know... whatever works for you.
+Soydevs, assemble!
